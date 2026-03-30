@@ -1,0 +1,2 @@
+# Hybrid-Intrusion-Detection-System-using-Machine-Learning-and-Ensemble-Techniques
+Machine Learning-based Intrusion Detection System that analyzes network traffic to detect malicious activities and anomalies in real-time. Uses hybrid models combining supervised and unsupervised learning to improve accuracy, reduce false positives, and adapt to evolving cyber threats in dynamic network environments.
